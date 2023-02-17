@@ -1,5 +1,5 @@
 
-<p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=prans28&" alt="prans28" /></p>
+<p><img width="100%"  src="https://github-readme-streak-stats.herokuapp.com/?user=prans28&" alt="prans28" /></p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prans28&label=Profile%20views&color=0e75b6&style=flat" alt="prans28" /> </p>
