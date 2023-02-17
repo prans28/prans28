@@ -1,4 +1,4 @@
-<img align="100%" alt="Coding" width="200" height="250" src="[https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif](https://th.bing.com/th/id/R.584b257c3af34d13724da3e888e21d15?rik=djnNjeu70lvntw&riu=http%3a%2f%2forig04.deviantart.net%2f321e%2ff%2f2008%2f333%2f8%2f2%2fanimated_wallpaper_by_sgalteran.gif&ehk=piA43ugC9xwE8OGHpqIlUs3cVbz5FGV5wf9Gzft6dsw%3d&risl=1&pid=ImgRaw&r=0)"/>
+<img align="100%" alt="Coding" width="200" height="250" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif](https://th.bing.com/th/id/R.584b257c3af34d13724da3e888e21d15?rik=djnNjeu70lvntw&riu=http%3a%2f%2forig04.deviantart.net%2f321e%2ff%2f2008%2f333%2f8%2f2%2fanimated_wallpaper_by_sgalteran.gif&ehk=piA43ugC9xwE8OGHpqIlUs3cVbz5FGV5wf9Gzft6dsw%3d&risl=1&pid=ImgRaw&r=0"/>
 
 
 <img align="right" alt="Coding" width="400" height="250" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
