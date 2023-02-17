@@ -1,4 +1,4 @@
-<img align="100%" alt="Coding" width="200" height="250" src="https://cdn.dribbble.com/users/31818/screenshots/2091618/dribbb.gif"/>
+<img align="100%" alt="Coding" width="100%" height="150" src="https://cdn.dribbble.com/users/31818/screenshots/2091618/dribbb.gif"/>
 
 
 <img align="right" alt="Coding" width="400" height="250" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
